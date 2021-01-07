@@ -1,8 +1,8 @@
 <h2 align="center"> Hi there! 👋😁 </h2>
 
-My name is Lucas Santos and i´m from Brazil (🇧🇷). I´m currently working with mobile and web development. I programing for mobile using React Native and for web i use technologies like React and Vue for Front-End and PHP with laravel and Node for Back-End.
+My name is Lucas Santos and I’m from Brazil (🇧🇷). I’m currently working with mobile and web development. I programing for mobile using React Native and for web i use technologies like React and Vue for Front-End and PHP with laravel and Node for Back-End.
 
-I realy like programing and my love language is Javascript❤️ and i´m currently always learning about other languages and other technologies.
+I really like programing and my love language is Javascript❤️ and i’m currently always learning about other languages and other technologies.
 
 Would you like to find me?
 
